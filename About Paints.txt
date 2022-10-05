@@ -1,0 +1,7 @@
+This program is a work in progress for CS 250 Object Oriented Programming. When run in any Java
+compiler (I am using IntelliJ) a window will appear and you can use Paint which is very similar
+to Microsoft Paint. If you would like to know more about what works and what does not (since 
+this program is a work in progress) please go to the Sprint notes
+
+When running please compile and run the Paint.java file which is located in 
+Paints/src/main/java/com/example/paints/. 
