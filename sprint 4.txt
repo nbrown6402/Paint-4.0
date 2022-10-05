@@ -1,0 +1,35 @@
+Nicole's Paints Version 4.0 9/16/22
+
+New Features:
+- Rounded Rectangle
+- n sided polygon
+- eraser
+- blank starting image to draw on
+- undo redo
+- clear canvas with an are you sure dialog box
+- copy and paste
+
+Fixed issues:
+- none at the moment
+
+Known issues:
+- Zoom is a bit weird and you can get lost in the images
+- Image loads in fully zoomed if a large image is loaded in
+- the smart save shows up anytime you hit quit
+- tabs opens a new tab, but you cant not open an image or draw on the canvas
+- need select and move
+- undo redo is a bit weird with pencil and eraser
+- n-sided polygon doesnt let you keep it
+
+Expected next: 
+- Everything mentioned in the fifth sprint assignment
+- fix all the quirks
+- Have the menu have icons
+-clean up code
+
+Links: 
+Github: 
+https://github.com/nbrown6402/Paint-4.0
+
+
+Pictures: uploaded as a pdf
